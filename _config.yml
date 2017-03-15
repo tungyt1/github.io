@@ -19,8 +19,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Welcome to are you alright?! A place created for workers in blue and their families. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: RUAlright?
-github_username:  XXsddsd
+twitter_username: R_U_Alright?
+facebook_username: itsokay@facebook
 
 # Build settings
 markdown: kramdown
